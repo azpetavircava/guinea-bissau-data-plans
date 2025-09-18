@@ -54,3 +54,10 @@ layout: default
 
 　　最后聊句实在的，选择哪种方式，取决于你想要什么样的体验。是享受在当地“折腾”的融入感，还是追求极致的高效和省心？想清楚这个，答案就摆在眼前了。祝你在几内亚比绍的每一刻，都能与世界顺畅相连。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Guinea Bissau SIM 卡购买与激活指南](https://faciylike.github.io/guinea-bissau-sim-guides)
